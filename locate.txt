@@ -1,0 +1,2 @@
+Command:locate
+Uses: The locate command is used to locate a file in a Linux system, just like the search command in Windows
