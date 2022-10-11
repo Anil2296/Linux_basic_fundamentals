@@ -1,0 +1,3 @@
+Command : mkdir
+Uses:mkdir command in Linux allows the user to create directories
+ This command can create multiple directories at once as well as set the permissions for the directories
