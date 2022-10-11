@@ -1,0 +1,2 @@
+Command:cd
+Uses:To change  one directory to another directory

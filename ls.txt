@@ -1,0 +1,2 @@
+Command:ls
+Uses:To know what are the files in our directory
