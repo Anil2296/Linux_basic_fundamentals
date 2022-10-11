@@ -1,2 +1,2 @@
 Command:touch
-uses:create a empty file
+uses:used to create a empty file
