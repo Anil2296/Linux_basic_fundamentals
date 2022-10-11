@@ -1,0 +1,2 @@
+Command:nano
+Uses:The nano command is a good text editor that denotes keywords with color and can recognize most languages.
