@@ -1,0 +1,3 @@
+Command:sudo
+Uses:sudo  A widely used command in the Linux command linesudo stands for "SuperUser Do".
+ So, if you want any command to be done with administrative or root privileges, you can use the sudo command. 
