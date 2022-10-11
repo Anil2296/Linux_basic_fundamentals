@@ -1,0 +1,2 @@
+Command:pwd
+Uses:it tells about present working directory and name of the directory
