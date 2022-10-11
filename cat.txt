@@ -1,0 +1,2 @@
+Command:cat
+Uses:Use the cat command to display the contents of a file. It is usually used to easily view programs.
