@@ -1,0 +1,2 @@
+Command:rm
+Uses:to delete files in a directory
