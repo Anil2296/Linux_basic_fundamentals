@@ -1,0 +1,2 @@
+Command :man
+Uses:To know more about a command and how to use it, use the man command
