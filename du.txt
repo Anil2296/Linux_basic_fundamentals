@@ -1,0 +1,3 @@
+Command:du
+Uses:Use du to know the disk usage of a file in your system. 
+If you want to know the disk usage for a particular folder or file in Linux, you can type in the command df and the name of the folder or file
