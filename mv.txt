@@ -1,0 +1,2 @@
+Command:mv
+Uses:Use the mv command to move files through the command line. We can also use the mv command to rename a file
